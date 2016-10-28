@@ -18,7 +18,7 @@
 
 It's also assumed you have a code editor that has PHP syntax highlighting, although these will be beneficial:
 
-* Auto Indenting
+* 自動縮排
 * Auto-completion
 * Brace matching
 * Syntax checking
