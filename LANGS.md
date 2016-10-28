@@ -1,6 +1,8 @@
 * [English](en)
 * [日本語 (にほんご)](jp)
 * [Português](pt-br)
+* [繁體中文](zh-tw)
+
 
 <!--
 * [Deutsch](de)
@@ -27,6 +29,5 @@
 * [ไทย](th)
 * [Türkçe](tr)
 * [Tiếng Việt](vi)
-* [漢語](zh-tw)
 * [中文](zh)
 -->
