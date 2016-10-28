@@ -1,8 +1,8 @@
 # WordPress The Right Way
 
-This book is a condensed resource of best practices for and by WordPress developers, intended to fast track developers past common mistakes and painful problems.
+這本書是一本由 WordPress 開發者撰寫給 WordPress 開發者的一本濃縮資源，裡面包含了各種最佳實踐讓開發者可以快速排除常見的錯誤和一些棘手的問題。
 
-This is a living document and will continue to be updated with more helpful information and examples as they become available.
+這是一個會持續更新的線上文件，未來將會新增更多有用的資訊和範例。
 
 ## How to Contribute
 
@@ -12,4 +12,5 @@ Editing the book can be done either by updating the markdown files with a text e
 
 ## License
 
-[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated
+[Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](http://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated
+
